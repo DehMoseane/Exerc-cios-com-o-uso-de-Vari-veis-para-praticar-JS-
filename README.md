@@ -28,7 +28,7 @@ O projeto fornece os seguintes recursos:
 
 - **Exercícios Práticos**: Uma seção com exercícios práticos que permitem que os usuários pratiquem o que aprenderam.
 
-- **Exemplos de Código**: Códigos de exemplo que demonstram como usar variáveis e lógica em diferentes linguagens de programação.
+- **Exemplos de Código**: Códigos de exemplo que demonstram como usar variáveis e lógica em JavaScript.
 
 
 ## Contribuição
