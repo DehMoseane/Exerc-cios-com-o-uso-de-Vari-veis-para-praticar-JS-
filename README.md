@@ -1,6 +1,5 @@
 # Aprendendo Programação Básica
 
-Breve descrição do projeto.
 
 ## Índice
 
