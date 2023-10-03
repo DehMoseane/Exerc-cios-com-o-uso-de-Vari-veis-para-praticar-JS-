@@ -46,6 +46,4 @@ Aceitamos contribuições para melhorar este projeto. Se você deseja contribuir
 ## Contato
 https://www.linkedin.com/in/d%C3%A9bora-moseane-b95791152/
 
-```shell
-# Exemplo de comando de instalação
-npm install meu-projeto
+
