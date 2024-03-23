@@ -2,11 +2,10 @@
 
 // IMC =
 
-
-// Nesta linha, você está definindo uma variável de chamada pesoe atribuindo a ela o valor 46. Este valor representa o peso da pessoa em quilogramas.
+// Este valor representa o peso da pessoa em quilogramas.
 let peso = 46; 
 
-// Aqui, você está definindo uma chamada variável alturae atribuindo a ela o valor 1.49. Este valor representa a altura da pessoa em metros.
+// Este valor representa a altura da pessoa em metros.
 let altura = 1.49 
 
 // altura ** 2 // // Nesta linha, você está calculando o IMC usando a fórmula do IMC, que é peso dividido pela altura ao quadrado.
