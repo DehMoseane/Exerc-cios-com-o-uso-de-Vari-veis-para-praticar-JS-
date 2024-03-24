@@ -1,4 +1,4 @@
-# Exercicios com o uso de variaveis
+# Exercicios com o uso de variaveis e condicionais
 
 
 ## Índice
